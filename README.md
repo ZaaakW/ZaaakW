@@ -1,11 +1,9 @@
-# Zaaaak1337
-
 <p align="center">  
 <img src="https://cdn.discordapp.com/attachments/957091144133652480/959281702671372399/roses.gif">
 </p>
 
 <p align="center">
-wock#1023
+Zaaak#1337
   </p>
   
 <p align="center">
@@ -19,7 +17,7 @@ aliases: zak, emirhan, qwezak
   <img align="center" alt="cord server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <p align="center">
-<a href="https://wock.ml">
+<a href="https://ayo.so/zaaak1337/">
   <img align="center" alt="wocks website" width="22px" src="https://cdn.discordapp.com/attachments/946621309574590524/959287929438613514/geng.gif" />
 </a>
 <p align="center">
