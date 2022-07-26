@@ -23,7 +23,6 @@ aliases: zak, emirhan, qwezak
 <p align="center">
     github stats below
     </p>
-    
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=doindrugseveryday&color=grey">
 </p>
