@@ -18,7 +18,7 @@ aliases: zak, emirhan, qwezak
 </a>
 <p align="center">
 <a href="https://ayo.so/zaaak1337/">
-  <img align="center" alt="zak website" width="22px" src="https://cdn.discordapp.com/attachments/946621309574590524/959287929438613514/geng.gif" />
+  <img align="center" alt="zak website" width="22px" src="https://cdn.discordapp.com/attachments/946621309574590524/959287929438613514/geng.gif"/>
 </a>
 <p align="center">
     github stats below
