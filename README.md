@@ -1,5 +1,5 @@
-<p align="center">  
-<img src="https://cdn.discordapp.com/attachments/957091144133652480/959281702671372399/roses.gif">
+<p align="center">
+<img src="">
 </p>
 
 <p align="center">
@@ -13,12 +13,12 @@ aliases: zak, emirhan, qwezak
   <img src="https://discord.c99.nl/widget/theme-5/935521061544554538.png">
   </p>
 <p align="center">
-<a href="https://discord.gg/view">
+<a href="https://discord.gg/socials">
   <img align="center" alt="cord server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <p align="center">
 <a href="https://ayo.so/zaaak1337/">
-  <img align="center" alt="wocks website" width="22px" src="https://cdn.discordapp.com/attachments/946621309574590524/959287929438613514/geng.gif" />
+  <img align="center" alt="zak website" width="22px" src="https://cdn.discordapp.com/attachments/946621309574590524/959287929438613514/geng.gif" />
 </a>
 <p align="center">
     github stats below
@@ -28,5 +28,5 @@ aliases: zak, emirhan, qwezak
 <img src="https://komarev.com/ghpvc/?username=doindrugseveryday&color=grey">
 </p>
 
-[![zaaak stats](https://github-readme-stats.vercel.app/api?username=Zaaak1337)](https://github.com/Zaaak1337/github-readme-stats)
-![](https://github.com//github-stats/blob/master/generated/languages.svg)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaaakw&show_icons=true&locale=en" alt="zaaakw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaaakw&" alt="zaaakw" /></p>
