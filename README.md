@@ -28,5 +28,5 @@ aliases: zak, emirhan, qwezak
 <img src="https://komarev.com/ghpvc/?username=doindrugseveryday&color=grey">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaaakw&show_icons=true&locale=en" alt="zaaakw" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaaakw&" alt="zaaakw" /></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaaakw&show_icons=true&locale=en" alt="zaaakw" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaaakw&" alt="zaaakw" />
