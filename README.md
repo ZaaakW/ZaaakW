@@ -7,7 +7,7 @@ Zaaak#1337
   </p>
   
 <p align="center">
-aliases: zak, emirhan, qwezak
+aliases: zak, yupi, tanaw
   </p>
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-5/935521061544554538.png">
