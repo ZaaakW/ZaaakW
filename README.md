@@ -2,21 +2,19 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi%2C+welcome+to+my+profile+%3Awave%3A+;i+code+for+fun+or+when+it+is+practical)](https://git.io/typing-svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi%2C+welcome+to+my+profile+%F0%9F%91%8B;i+code+for+fun+or+when+it+is+practical" />
   </a>
 </h1>
-
-<div align="center">
-  <p>
-    I'm a learning developer, some projects are just for the fun of coding. 
-  </p>
 
 <p align="center">
 <img src="https://whatifgaming.com/wp-content/uploads/2022/03/Plenty-of-Fish-in-the-Sea.jpg">
 </p>
 
-<p align="center">
-Zaaak#1337
+<div align="center">
+  <p>
+    I'm a learning developer, some projects are just for the fun of coding.
+    `Creator` of Scooter
+    `Team` of TCS
   </p>
   
 <p align="center">
