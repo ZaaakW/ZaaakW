@@ -23,22 +23,29 @@ aliases: zak, muaric, bowl
 <img src="https://komarev.com/ghpvc/?username=ZaaakW">
 </p>
 
-## 📊Profile Stats
+<details>
+  <summary>📊 My profile stats?</summary>
 
-<table width="100%" align="center">
-  <tr>
-    <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaaakW&show_icons=true&theme=radical" /> </td>
-<td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaaakW&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>  
-  
-  </tr>
-  <table>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZaaakW&show_icons=true&theme=radical" alt="Top Languages" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaaakW&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" alt="GitHub Streak" />
+</div>
+</details>
+
+<br>
+
 
 <details>
   <summary>🚀 What langauge am I most fond of?</summary>
 
   <p> I love very much python and javascript langauges.</p>
 </details>
+
+<br>
 
 <details>
   <summary>🛠️ What am I currently working on?</summary>
