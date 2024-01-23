@@ -13,30 +13,37 @@
 <div align="center">
   <p>
     I'm a learning developer, some projects are just for the fun of coding.
-    `Creator` of Scooter
-    `Team` of TCS
   </p>
   
 <p align="center">
-aliases: zak, yupi, tanaw
-  </p>
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-5/935521061544554538.png">
-  </p>
-<p align="center">
-<a href="https://discord.gg/socials">
-  <img align="center" alt="cord server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<p align="center">
-<a href="https://ayo.so/zaaak1337/">
-  <img align="center" alt="zak website" width="22px" src="https://cdn.discordapp.com/attachments/946621309574590524/959287929438613514/geng.gif"/>
-</a>
-<p align="center">
-    github stats below
-    </p>
+aliases: zak, muaric, bowl
+</p>
+  
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=doindrugseveryday&color=grey">
+<img src="https://komarev.com/ghpvc/?username=ZaaakW">
 </p>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaaakw&show_icons=true&locale=en" alt="zaaakw" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaaakw&" alt="zaaakw" />
+## 📊Profile Stats
+
+<table width="100%" align="center">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZaaakW&show_icons=true&theme=radical" /> </td>
+<td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaaakW&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>  
+  
+  </tr>
+  <table>
+
+<details>
+  <summary>🚀 What langauge am I most fond of?</summary>
+
+  <p> I love very much python and javascript langauges.</p>
+</details>
+
+<details>
+  <summary>🛠️ What am I currently working on?</summary>
+
+  <p>I am currently working on school assignments and several specific projects</p>
+</details>
+
+<br>
